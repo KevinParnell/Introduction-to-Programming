@@ -8,7 +8,7 @@ int main() {
     printf("Please enter the amount of money you would like to convert\n");
     scanf("%f", &x); // Allows input for the float
     y = 1.0960;
-    printf("The amount you entered is equal to %f Canadian Dollars\n", x*y);
+    printf("The amount you entered is equal to %f Canadian Dollars\n", x*y); // Reads the amount in a human way
 
     return 0;
 }
