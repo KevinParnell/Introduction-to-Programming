@@ -6,6 +6,7 @@ int main() {
     float degreeF; // Farenheit
     float degreeK; // Kelvin
     int choice; // The number the user enters
+    
     printf("Please enter the degrees in Kelvin \n");
     scanf("%f", &degreeK);
 
